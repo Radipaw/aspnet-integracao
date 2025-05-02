@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEoMEtFXmkChEBjFUVfOlS6WwpfgjVSUt8KGlAszDjfJKiA5oMlnPHxJwTIPgBoP8Ot2+fwRmbcS+C9JbEWAYg==",
+  "success": true,
+  "projectFilePath": "/workspace/aspnet-integracao/MeuApp.Tests/MeuApp.Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/gitpod/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.net.test.sdk/17.13.0/microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.testplatform.testhost/17.13.0/microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,8 +2,9 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: dotnet restore
-    command: dotnet run --project MeuProjeto.csproj
+  - name: Rodar testes
+    init: dotnet restore
+    command: dotnet run --project MeuApp/MeuApp.csproj
 
 ports:
   - port: 5000
